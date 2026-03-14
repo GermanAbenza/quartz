@@ -1,4 +1,3 @@
 
-# Here are my latest thoughts:
+layout: home
 
-- [[FormatoLiga]]
